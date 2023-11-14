@@ -30,8 +30,23 @@
 <summary><strong>🛠️ Installation:</strong> 🖱️ <i>Click to show the process</i> 🛠️</summary>
  <div align="center">
 ⇃ <strong>1.</strong> Go to <a href="/Installation.apk">Installation.apk</a> file and click <strong>Download</strong>. ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/ngwrx7v.jpeg"></a><br>
+<a href="#"><img width="700px"src="https://i.imgur.com/hCBFOit.jpeg"></a><br>
+⇃ <strong>2.</strong> The file <strong>should not</strong> contain any harmful files, but you install <strong>everything at your own risk!</strong> ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/BMTnq7X.jpeg"></a><br>
+⇃ <strong>3.</strong> After the file is successfully downloaded, click <strong>Open</strong>. ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/qPvUDUc.jpeg"></a><br>
+⇃ <strong>4.</strong> Always open the file with <strong>Package Installer</strong>. ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/Daml33U.jpeg"></a><br>
+⇃ <strong>5.</strong> Click <strong>INSTALL / UPDATE</strong> for installing application to your device. ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/C2iyC0o.jpeg"></a><br>
+⇃ <strong>6.</strong> At the last one, click <strong>OPEN</strong> for opening application. ⇂<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/pPYtmas.jpeg"></a><br>
+⇃ <strong>7. Congrats!</strong> Now you can finally download <strong>Seal_v1.10.0.apk</strong> ⇂<br> to your device and enjoy downloading content.<br>
+<a href="#"><img width="700px"src="https://i.imgur.com/bGyzOuJ.jpeg"></a><br>
+<strong>✨ Start using Seal on you device: ✨</strong><br><hr>
+<a href="#"><img width="300px" src="https://img.utdstc.com/screen/f27/058/f27058164ab4af095fc31505df38c4faeecb2d759627acfbf5eddede4c488f48:800"></a><br><hr>
 <a href="#"><img width="300px"src="https://img.utdstc.com/screen/3f7/90a/3f790a84f68adc6871748588f866fcd251cf7d614ec026c0830b7a10efa61e8a:800"></a><br><hr>
-<a href="#"><img width="300px"src="https://img.utdstc.com/screen/f27/058/f27058164ab4af095fc31505df38c4faeecb2d759627acfbf5eddede4c488f48:800"></a><br><hr>
 <a href="#"><img width="300px"src="https://img.utdstc.com/screen/db3/31b/db331b49c9211117b9db66e0fcead7cb9f6639708c5614eed13281ec0b162689:800"></a><br>
 
 <strong>😉 And that is how you can Download Seal on your Android Device. 😉</strong></div>
